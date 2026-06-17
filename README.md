@@ -1,31 +1,29 @@
 # F1 ML Analytics & Notifications
 
-<div style='display: flex; gap: 15px; justify-content: center; padding-bottom: 20px; overflow-x: scroll;'>
-<div style='display: flex; flex-direction: column; gap: 10px'>
-    <img src='images/timur.png' style='width: 120px; height: 120px; border-radius: 120px;' />
-    <span>Павлов Тимур</span>
-</div>
-
-<div style='display: flex; flex-direction: column; gap: 10px'>
-    <img src='images/arina.jpg' style='width: 120px; height: 120px; border-radius: 120px;' />
-    <span>Архипова Арина</span>
-</div>
-
-<div style='display: flex; flex-direction: column; gap: 10px'>
-    <div style='width: 120px; height: 120px; background: red; border-radius: 120px;'></div>
-    <span>Радькова Полина</span>
-</div>
-
-<div style='display: flex; flex-direction: column; gap: 10px'>
-    <img src='images/matvey.jpg' style='width: 120px; height: 120px; border-radius: 120px;' />
-    <span>Абрамов Матвей</span>
-</div>
-
-<div style='display: flex; flex-direction: column; gap: 10px'>
-    <div style='width: 120px; height: 120px; background: red; border-radius: 120px;'></div>
-    <span>Винокуров Тимофей</span>
-</div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/timur.png" width="120" height="120"><br>
+      <sub><b>Павлов Тимур</b></sub>
+    </td>
+    <td align="center">
+      <img src="images/arina.jpg" width="120" height="120"><br>
+      <sub><b>Архипова Арина</b></sub>
+    </td>
+    <td align="center">
+      <img src="images/polina.png" width="120" height="120"><br>
+      <sub><b>Радькова Полина</b></sub>
+    </td>
+    <td align="center">
+      <img src="images/matvey.jpg" width="120" height="120"><br>
+      <sub><b>Абрамов Матвей</b></sub>
+    </td>
+    <td align="center">
+      <img src="images/timofey.png" width="120" height="120"><br>
+      <sub><b>Винокуров Тимофей</b></sub>
+    </td>
+  </tr>
+</table>
 
 Командный проект по интеллектуальному анализу данных: система машинного обучения для аналитики Формулы-1 и персонализированной доставки гоночных уведомлений.
 
